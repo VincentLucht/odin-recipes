@@ -1,3 +1,7 @@
-Commit format test
+Added Pizza page with picture, description, ingredients, and instructions
 
-Is this correctly formatted?
+This commit adds a new Pizza page to the website. It includes the following components:
+- Picture of the pizza
+- Description of the pizza
+- List of ingredients
+- Cooking instructions
