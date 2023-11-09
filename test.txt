@@ -1,7 +1,4 @@
-Added Pizza page with picture, description, ingredients, and instructions
+Added a Lasagna and Spaghetti Bolognese page
 
-This commit adds a new Pizza page to the website. It includes the following components:
-- Picture of the pizza
-- Description of the pizza
-- List of ingredients
-- Cooking instructions
+- basically the same as the Pizza page, but with different items
+- added rel="noopener, noreferrer" to index.html
