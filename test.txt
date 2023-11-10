@@ -1,0 +1,4 @@
+Added a Lasagna and Spaghetti Bolognese page
+
+- basically the same as the Pizza page, but with different items
+- added rel="noopener, noreferrer" to index.html
