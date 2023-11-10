@@ -1,4 +1,4 @@
-Added a Lasagna and Spaghetti Bolognese page
+Overhauled lasagna and spaghetti bolognese page
 
-- basically the same as the Pizza page, but with different items
-- added rel="noopener, noreferrer" to index.html
+- changed html aspects
+- added css 
